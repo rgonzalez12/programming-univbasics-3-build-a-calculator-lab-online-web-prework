@@ -28,7 +28,7 @@ end
 
 modulo(34,5).to_s
 
-def square_root(k)
+def square_root
   puts Math.sqrt
 end
 
