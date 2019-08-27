@@ -28,11 +28,10 @@ end
 
 modulo(34,5).to_s
 
-def square_root
-  Math.sqrt
+def Math.sqrt(k)
 end
 
-square_root(9)
+square_root(81)
 
 
 
