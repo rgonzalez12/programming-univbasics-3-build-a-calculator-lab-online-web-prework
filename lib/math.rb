@@ -2,7 +2,7 @@ def addition(a,b)
  a + b
 end
 
-addition
+addition()
 
 def subtraction(c, d)
 c - d
@@ -23,7 +23,7 @@ end
 multiplication
 
 def modulo(i, j)
-34 / 5
+i / j
 end
 
 modulo
