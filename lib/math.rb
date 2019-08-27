@@ -22,8 +22,8 @@ end
 
 multiplication(4,30)
 
-def modulo(i,j)
-i % j.to_s
+def modulo(i,j).to_s
+i % j
 end
 
 modulo(34,5)
