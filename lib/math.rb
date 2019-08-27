@@ -4,29 +4,31 @@ end
 
 addition(5,4)
 
-def subtraction(c, d)
+def subtraction(c,d)
 c - d
 end
 
 subtraction(10,5)
 
-def division(e, f)
+def division(e,f)
 e / f
 end
 
 division(50,2)
 
-def multiplication(g, h)
+def multiplication(g,h)
 g * h
 end
 
 multiplication(4,30).class
 
-def modulo(i, j)
+def modulo(i,j)
 i % j
 end
 
 modulo(34,5).to_s
+
+
 
 
 
