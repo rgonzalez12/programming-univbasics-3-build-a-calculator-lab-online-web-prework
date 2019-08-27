@@ -32,7 +32,7 @@ def square_root
   use Math.sqrt
 end
 
-square_root(9**)
+square_root(9)
 
 
 
