@@ -1,35 +1,35 @@
 def addition(a,b)
-5 + 4
+ a + b
 end
 
 addition
 
-def subtraction(num1, num2)
-10 - 5
+def subtraction(c, d)
+c - d
 end
 
 subtraction
 
-def division(num1, num2)
-50 / 2
+def division(e, f)
+e / f
 end
 
 division
 
-def multiplication(num1, num2)
-4 * 30
+def multiplication(g, h)
+g * h
 end
 
 multiplication
 
-def modulo(.to_s)
+def modulo(i, j)
 34 / 5
 end
 
 modulo
 
-def square_root(Math.sqrt)
-81
+def square_root(h,k)
+
 end
 
 square_root
