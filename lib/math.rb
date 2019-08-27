@@ -20,4 +20,5 @@ end
 
 def square_root(num)
 81
+Math.sqrt
 end
