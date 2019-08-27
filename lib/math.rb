@@ -29,8 +29,7 @@ end
 modulo(34,5).to_s
 
 def square_root(k)
-  (k)Math.sqrt #in here based on an argument - the number whose sqry we wanna find
-end
+  Math.sqrt 81
 
 square_root(81)
 
