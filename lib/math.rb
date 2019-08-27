@@ -26,10 +26,10 @@ def modulo(i, j)
 i / j
 end
 
-modulo(34,5)
+modulo(34,5).to_s
 
 def square_root(h,k)
 Math.sqrt
 end
 
-square_root(81)
+
