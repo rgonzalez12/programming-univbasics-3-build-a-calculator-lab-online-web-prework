@@ -29,9 +29,10 @@ end
 modulo(34,5).to_s
 
 def square_root
-  puts Math.sqrt
+  should use Math.sqrt
 end
 
+square_root(81)
 
 
 
