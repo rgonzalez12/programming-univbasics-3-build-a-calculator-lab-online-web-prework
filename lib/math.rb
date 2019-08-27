@@ -33,6 +33,7 @@ def square_root
   square_root = 81
 end
 
+square_root
 
 
 
