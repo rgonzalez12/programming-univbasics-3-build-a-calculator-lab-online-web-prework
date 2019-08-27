@@ -28,7 +28,7 @@ end
 
 modulo
 
-def square_root(num)Math.sqrt
+def square_root(num)
 81
 end
 
