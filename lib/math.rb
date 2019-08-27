@@ -20,7 +20,7 @@ def multiplication(g, h)
 g * h
 end
 
-multiplication(4,30).to_s
+multiplication(4,30).class
 
 def modulo(i, j)
 i / j
