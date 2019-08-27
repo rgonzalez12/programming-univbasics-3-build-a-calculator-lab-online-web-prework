@@ -32,7 +32,7 @@ def square_root
   puts Math.sqrt
 end
 
-square_root
+square_root(81)
 
 
 
