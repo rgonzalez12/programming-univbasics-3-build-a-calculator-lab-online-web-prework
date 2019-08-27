@@ -28,10 +28,9 @@ end
 
 modulo(34,5).to_s
 
-def Math.sqrt(k)
+def square_root 
+  use Math.sqrt in here based on an argument - the number whose sqry we wanna find
 end
-
-square_root(81)
 
 
 
