@@ -28,6 +28,12 @@ end
 
 modulo(34,5).to_s
 
+def square_root(h)
+  h%
+end
+
+square_root
+
 
 
 
