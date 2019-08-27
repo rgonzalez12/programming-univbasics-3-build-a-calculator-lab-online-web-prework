@@ -26,7 +26,7 @@ def modulo(i, j)
 i / j
 end
 
-modulo()
+modulo(34,5)
 
 def square_root(h,k)
 Math.sqrt
