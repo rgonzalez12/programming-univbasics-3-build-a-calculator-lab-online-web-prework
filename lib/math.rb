@@ -22,7 +22,7 @@ end
 
 multiplication
 
-def modulo(num1, num2)
+def modulo(.to_s)
 34 / 5
 end
 
