@@ -14,7 +14,7 @@ def division(e, f)
 e / f
 end
 
-division()
+division(50,2)
 
 def multiplication(g, h)
 g * h
