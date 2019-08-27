@@ -22,13 +22,13 @@ end
 
 multiplication
 
-def modulo(num1, num2).to_s
+def modulo(num1, num2)
 34 / 5
 end
 
 modulo
 
-def square_root(num)
+def square_root(Math.sqrt)
 81
 end
 
