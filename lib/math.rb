@@ -8,7 +8,7 @@ def subtraction(c, d)
 c - d
 end
 
-subtraction()
+subtraction(10,5)
 
 def division(e, f)
 e / f
