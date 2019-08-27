@@ -29,7 +29,7 @@ end
 modulo(34,5).to_s
 
 def square_root(k)
-  k%
+  k %
 end
 
 square_root(Math.sqrt)
