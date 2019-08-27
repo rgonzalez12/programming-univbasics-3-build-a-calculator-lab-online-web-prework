@@ -30,6 +30,7 @@ modulo(34,5).to_s
 
 def square_root
   puts Math.sqrt
+  square_root = 91
 end
 
 
