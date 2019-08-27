@@ -14,11 +14,11 @@ def multiplication(num1, num2)
 4 * 30
 end
 
-def modulo(num1, num2)
+def modulo(num1, num2).to_s
 34 / 5
+
 end
 
-def square_root(num)
+def square_root(num)Math.sqrt
 81
-Math.sqrt
 end
