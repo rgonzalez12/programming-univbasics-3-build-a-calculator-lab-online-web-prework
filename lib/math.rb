@@ -19,5 +19,5 @@ num1 /
 end
 
 def square_root(num)
-
+num
 end
