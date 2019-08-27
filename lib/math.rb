@@ -23,7 +23,7 @@ end
 multiplication(4,30).class
 
 def modulo(i, j)
-i / j
+i % j
 end
 
 modulo(34,5).to_s
