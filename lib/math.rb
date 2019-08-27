@@ -2,34 +2,34 @@ def addition(a,b)
  a + b
 end
 
-addition()
+addition(5,4)
 
 def subtraction(c, d)
 c - d
 end
 
-subtraction
+subtraction()
 
 def division(e, f)
 e / f
 end
 
-division
+division()
 
 def multiplication(g, h)
 g * h
 end
 
-multiplication
+multiplication()
 
 def modulo(i, j)
 i / j
 end
 
-modulo
+modulo()
 
 def square_root(h,k)
 Math.sqrt
 end
 
-square_root
+square_root()
