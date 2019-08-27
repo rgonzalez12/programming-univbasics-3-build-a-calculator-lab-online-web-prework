@@ -32,7 +32,7 @@ def square_root(h)
   h%
 end
 
-square_root
+square_root(Math.sqrt)
 
 
 
